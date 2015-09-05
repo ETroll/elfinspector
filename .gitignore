@@ -1,3 +1,11 @@
+# Personal folder style
+[Oo]bject/*
+[Bb]uild/*
+[Oo]bj/*
+[Bb]in/*
+[Tt]oolchains/*
+![Tt]ools/**/*
+
 # Object files
 *.o
 *.ko
